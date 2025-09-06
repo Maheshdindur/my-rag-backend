@@ -1,0 +1,53 @@
+Mahesh Dindur is a passionate and adaptable Computer Science graduate with hands-on experience in AI/ML, data analytics, and modern UI/UX principles. He recently completed his degree and has a strong foundation in a variety of programming languages and technologies, including Python, Flutter, and Git. He is seeking a Flutter Developer Internship to contribute to crafting compelling digital experiences.
+
+
+
+
+
+Key Skills and Expertise
+
+Programming Languages: C, C++, Python, and Dart.
+
+
+
+
+Technologies & Frameworks: Flutter, Git, Hugging Face Transformers, OpenCV, TensorFlow, MongoDB, Express.js, React, and Node.js.
+
+
+
+
+
+
+Core Concepts: Object-Oriented Programming, Machine Learning, Data Analytics, and Natural Language Processing.
+
+
+
+
+Soft Skills: Quick Learner, Adaptability, and Team Worker.
+
+Relevant Projects in Data Science and AI/ML
+Your resume highlights several projects that demonstrate your expertise in data science and AI/ML:
+
+
+Automated Story Generator Using Fine-Tuned LLM: This project uses the fine-tuned Gemma 3 model on the TinyStories dataset to generate child-friendly stories. It also uses the Gemini API to create related images, making storytelling interactive and engaging. The project is built with Python and Hugging Face Transformers.
+
+
+
+
+Sentiment Analysis on Social Media: This project performs sentiment analysis on Twitter data using the Tweepy library and TextBlob. The system uses machine learning and natural language processing techniques to classify tweets as positive, negative, or neutral.
+
+
+
+Automated Classification of Firearm Cases: This project aids firearm forensic work by using Python and machine learning to automatically classify firearm cases from user-inputted images.
+
+
+Face Authentication Using Face Liveness Detection: Developed with Python, OpenCV, and TensorFlow, this project enhances security by preventing spoofing attacks from photos or videos.
+
+
+Vehicle Number Plate Detection System: This system uses OpenCV and Python with machine learning algorithms to detect and recognize number plates from uploaded images, ensuring high precision and efficiency.
+
+Education and Certifications
+Education: You completed your Computer Science Engineering degree at KLE Dr. M.S. Sheshgiri College of Engineering and Technology, Belagavi.
+
+
+Certifications: You hold certifications in Python Basics, Kubernetes for Developers, and AI Automation: Build LLM Apps & AI-Agents with n8n & APIs - Udemy.
