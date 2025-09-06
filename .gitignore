@@ -1,1 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
 
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.python-version
+
+# VS Code settings
+.vscode/
+
+# Environment variables
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# PDF and summary files (optional, if you don't want to commit these)
+# /me/resume_for_Virtual_Assistant.pdf
+# /me/summary.txt
